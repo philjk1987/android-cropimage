@@ -21,7 +21,7 @@
     <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="horizontal">
+            android:orientation="vertical">
 
         <view class="com.android.camera.CropImageView" android:id="@+id/image"
                 android:background="#55000000"
